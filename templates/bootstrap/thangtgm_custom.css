@@ -1,0 +1,120 @@
+.list-BSC {
+    max-height: 300px !important;
+    overflow: auto;
+}
+
+.margin-top-5 {
+    margin-top: 5px !important;
+}
+
+.min-width-90 {
+    min-width: 90px !important;
+}
+
+.min-width-100 {
+    min-width: 100px !important;
+}
+
+.min-width-130 {
+    min-width: 130px !important;
+}
+
+.padding-top-7 {
+    padding-top:7px !important;
+}
+
+.padding-right-10 {
+    padding-right: 10px !important;
+}
+
+.padding-left-5 {
+    padding-left: 5px !important;
+}
+
+.cls_chuaxuly {
+    background-color: orange !important;
+}
+
+.cls_daxuly {
+    background-color: #92d050 !important;
+}
+
+tr > td > input.form-control, tr > td > select.form-control {
+    padding: 1px 5px !important;
+    font-size: 12px !important;
+}
+
+tr > td > a.btn {
+    margin-bottom: 0px !important;
+    margin-right: 0px !important;
+}
+
+.table > tbody > tr > td {
+    padding: 2px !important;
+}
+
+tr > td > input.form-control {
+    text-align: center !important;
+}
+
+.login-center{
+    margin-top: 10% !important;
+}
+
+.error-red{
+    color: red !important;
+}
+
+.red-color{
+    color: red !important;
+}
+
+.green-color{
+    color: green !important;
+}
+
+.orange-color{
+    color: orange !important;
+}
+
+.wrap-text-200{
+    width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.ads-header{
+    width: 40%;
+    background-color: #e08a20;
+    height: 57px;
+    float: left;
+}
+
+.ads-left-menu{
+    background-color: #e08a20;
+    height: 150px;
+}
+
+.cls-copy{
+    cursor: pointer !important;
+}
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #000; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+}
+
+#myBtn:hover {
+    background-color: red; /* Add a dark-grey background on hover */
+}
